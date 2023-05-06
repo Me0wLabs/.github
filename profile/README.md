@@ -1,6 +1,6 @@
 ### 👋 만나서 반가워요!
 
-애옹랩스(MeowLabs)는 [화향](https://hwahyang.space)([@hwahyang1](https://github.com/hwahyang1))과 [향연](https://twitter.com/H_Yeon_249)([@H_Yeon_249](https://github.com/H_Yeon_249))의 합작 팀이에요.
+애옹랩스(MeowLabs)는 [화향](https://hwahyang.space)([@hwahyang1](https://github.com/hwahyang1))과 [향연](https://twitter.com/H_Yeon_249)([@HYeon-249](https://github.com/HYeon-249))의 합작 팀이에요.
 
 두 명이 같이 작업한 프로젝트가 이 팀으로 공개되고 있어요.
 
