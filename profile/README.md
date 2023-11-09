@@ -16,4 +16,4 @@
 
 ### 💬 문의가 있으시다면 아래를 참고 해 주세요!
 
-- 이메일: [me@hwahyang.space](mailto:me@hwahyang.space)
+- 이메일: [hwahyang@meowlabs.kr](mailto:hwahyang@meowlabs.kr)
