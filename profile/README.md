@@ -6,7 +6,8 @@
 
 ### ✔️ 지금까지 공개된 작업물은 아래와 같아요!
 
-- 티키토크 - 카카오톡 테마 ([Google Play](https://play.google.com/store/apps/details?id=com.hb.theme.tikitalk), [Galaxy Store](http://apps.samsung.com/appquery/appDetail.as?appId=com.hb.theme.tikitalk)) - [향연](https://twitter.com/H_Yeon_249)([@HYeon-249](https://github.com/HYeon-249))님 합작
+- 티키토크 카카오톡 테마 ([Google Play](https://play.google.com/store/apps/details?id=com.hb.theme.tikitalk), [Galaxy Store](http://apps.samsung.com/appquery/appDetail.as?appId=com.hb.theme.tikitalk)) - [향연](https://twitter.com/H_Yeon_249)([@HYeon-249](https://github.com/HYeon-249))님 합작
+- OVER ROAD (Team. Infinity / [Web](https://overroad.meowlabs.kr)) - 퍼블리싱
 
 이외에도 아직 공개되지 않은 여러 프로젝트를 진행하고 있어요.
 
