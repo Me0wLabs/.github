@@ -13,4 +13,7 @@
 
 ### 💬 문의가 있으시다면 아래를 참고 해 주세요!
 
-- 이메일: [hwahyang@meowlabs.kr](mailto:hwahyang@meowlabs.kr)
+- 홈페이지: [meowlabs.kr](https://meowlabs.kr)
+- 이메일: [contact@meowlabs.kr](mailto:contact@meowlabs.kr)
+
+<sub>상호명 애옹랩스 MeowLabs | 대표자 김강현 | 사업자등록번호 258-23-01932</sub>
